@@ -11,3 +11,7 @@ git clone <repository-url>
 3. Check Repository Status
 
 git status
+
+
+4. Check branch
+git branch checkout
