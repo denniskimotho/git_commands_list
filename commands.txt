@@ -1,0 +1,13 @@
+**************BASICS COMMANDS*******************
+
+1. Initialize a Repository
+
+git init
+
+2. Clone a Repository
+
+git clone <repository-url>
+
+3. Check Repository Status
+
+git status
