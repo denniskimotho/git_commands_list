@@ -15,3 +15,6 @@ git status
 
 4. Check branch
 git branch checkout
+
+
+checking 
